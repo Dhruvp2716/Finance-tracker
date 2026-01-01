@@ -1,0 +1,59 @@
+.table-header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0rem 3rem 1rem 3rem;
+    padding-top: 1rem;
+    
+  }
+  
+  .table-header p {
+    font-size: 24px;
+    color: black;
+    font-weight: 400;
+    margin: 0;
+  }
+  
+  .radio {
+    display: flex;
+    align-items: center;
+  }
+  
+  .radio-group {
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  .table{
+    margin: 0rem 3rem 4rem 3rem;
+    box-shadow: var(--shadow);
+  }
+
+  .search-container{
+    display: flex;
+    box-shadow: var(--shadow);
+    padding: 10px;
+    margin: 0rem 3rem 5px 3rem;
+    border-radius: 10px;
+  }
+
+  .search{
+    margin-left: 10px;
+    width: 70%;
+    border-radius: 20px;
+    margin-right: 20%;
+  }
+  .select{
+    display: flex;
+    float: right;
+    width: 200px;
+    border-radius: 20px;
+    color: black;
+}
+
+
+
+  
+  
+
+  

@@ -1,0 +1,32 @@
+.button,.ybutton {
+    color: var(--theme);
+    margin: 1rem 0rem;
+    padding: 0.5rem !important;
+    background-color: #fff;
+    border: 1px solid var(--theme);
+    border-radius: 0.2rem;
+    cursor: pointer;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    height: auto !important;
+    text-align: center;
+}
+
+.button:hover{
+    background-color: var(--theme);
+    color: #fff;
+    transition: all 0.3s;
+    display: flex;
+}
+
+.ybutton{
+    background-color: var(--theme);
+    color: #fff;
+}
+
+.ybutton:hover{
+    background-color: #fff !important;
+    color: var(--theme);
+    transition: all 0.3s;
+}

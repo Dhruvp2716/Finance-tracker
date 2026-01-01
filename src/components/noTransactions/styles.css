@@ -1,0 +1,21 @@
+.noTrans {
+    width: 80%;
+    display: inline-block;
+    justify-content: center;
+    box-shadow: var(--shadow);
+    height: 480px;
+    margin-bottom: 3rem;
+    vertical-align: top;
+    text-align: center;
+    margin-left: 9%;
+}
+
+.noTrans p{
+    color: black;
+    display: block;
+    font-size: 23px;
+}
+.image{
+    width:450px;
+    height:400px;
+}
